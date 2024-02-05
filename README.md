@@ -1,4 +1,4 @@
-### Naim Hopkins 👋
+### Naim Hopkins 👨‍💻
 ### (Backend) Software Engineer 
 
 
