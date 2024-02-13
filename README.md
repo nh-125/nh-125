@@ -2,7 +2,7 @@
 ### (Backend) Software Engineer 
 
 
-- 🌱 I’m currently learning ...  api management 
+- 🌱 I’m currently learning ...  fastapi
 - 🔭 I’m currently working on ... robotics, 3d webgl, nginx, gcp, k8s
 - 🤔 I’m looking for help with ... ros projects
 
